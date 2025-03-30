@@ -1,0 +1,2 @@
+# canal_moni_redis
+使用canal监控mysql的变化 实现mysql和redis的双写一致性
